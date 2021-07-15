@@ -1,7 +1,7 @@
 Hi Folks 
 
 I am learning about Git
-Understanding about tabs
+
 commit,contibutor,star fork
 
 We need to understand about basic concept to handle the project.
